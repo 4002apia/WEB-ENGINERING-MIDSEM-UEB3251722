@@ -1,3 +1,14 @@
+QUESTION 2 A
+
+<!DOCTYPE html>
+<head>
+<title></title>
+</head>
+<body>
+</body>
+</html>
+
+
 QUESTION 2 B
 
 <!DOCTYPE html>
